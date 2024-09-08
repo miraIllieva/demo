@@ -45,5 +45,6 @@ To push the current branch and set the remote as upstream, use
 
 To have this happen automatically for branches without a tracking
 upstream, see 'push.autoSetupRemote' in 'git help config'.
+ss
 
 
